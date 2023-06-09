@@ -1,0 +1,14 @@
+# ninja log v5
+1	1296	7079570083053675	build.ninja	3742059980d83054
+8	425	7079568217781657	widgetTestOne_autogen/timestamp	7e883cd4255326dd
+8	425	7079568217781657	widgetTestOne_autogen/mocs_compilation.cpp	7e883cd4255326dd
+8	425	7079568217781657	C:/Users/alexv/Dropbox/PC (2)/Documents/ASRC/build-widgetTestOne-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/widgetTestOne_autogen/timestamp	7e883cd4255326dd
+2185	2473	7079568238450676	libwidgetTestOne.dll	43448722b0a3e3c1
+8	425	7079568217781657	C:/Users/alexv/Dropbox/PC (2)/Documents/ASRC/build-widgetTestOne-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/widgetTestOne_autogen/mocs_compilation.cpp	7e883cd4255326dd
+1178	1901	7077850343904467	CMakeFiles/widgetTestOne.dir/widgettestone.cpp.obj	bb56e449a81814b
+1344	4388	7079565272953818	CMakeFiles/widgetTestOne.dir/widgetTestOne_autogen/mocs_compilation.cpp.obj	f6f31494fed869c2
+2185	2473	7079568238450676	libwidgetTestOne.dll.a	43448722b0a3e3c1
+303	541	7077844914914914	CMakeFiles/widgetTestOne.dir/slidertext.cpp.obj	4020c93606e7b444
+1170	3962	7077850364588667	CMakeFiles/widgetTestOne.dir/SliderText.cpp.obj	ed984aa506fbf894
+438	2184	7079568235600444	CMakeFiles/widgetTestOne.dir/slidertextplugin.cpp.obj	61242faee6f2ea8e
+310	1827	7079567410231044	CMakeFiles/widgetTestOne.dir/MyWidgetCollectionPlugin.cpp.obj	10b249e3c3e8ce49

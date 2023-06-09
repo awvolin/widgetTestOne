@@ -1,0 +1,13 @@
+
+#ifndef WIDGETTESTONE_GLOBAL_H
+#define WIDGETTESTONE_GLOBAL_H
+
+#include <QtCore/qglobal.h>
+
+#if defined(WIDGETTESTONE_LIBRARY)
+#  define WIDGETTESTONE_EXPORT Q_DECL_EXPORT
+#else
+#  define WIDGETTESTONE_EXPORT Q_DECL_IMPORT
+#endif
+
+#endif // WIDGETTESTONE_GLOBAL_H

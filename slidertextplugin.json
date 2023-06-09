@@ -1,0 +1,8 @@
+{
+    "Name": "SliderText",
+    "Group": "Input Widgets",
+    "ToolTip": "A slider with text",
+    "WhatsThis": "A custom widget that provides a slider with text",
+    "IncludeFile": "SliderText.h",
+    "Icon": "sliderTextIcon.png"
+}

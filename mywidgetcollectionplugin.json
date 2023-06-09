@@ -1,0 +1,10 @@
+{
+    "Name": "My Widget Collection",
+    "PluginVersion": "1.0",
+    "QtVersion": "5.15",
+    "ClassName": "MyWidgetCollectionPlugin",
+    "Description": "A custom collection of widgets for use in Qt Designer.",
+    "Category": "Custom Widgets",
+    "Vendor": "Your Organization Name",
+    "Url": "http://www.your-url.com"
+}
