@@ -17,7 +17,7 @@ add_library(widgetTestOne SHARED
   widgettestone.cpp
   widgettestone.h
   slidertext.h
-  slidertext.cpp
+  SliderText.cpp
   DelayedInitializationWidget.h
   slidertextplugin.h
   slidertextplugin.cpp

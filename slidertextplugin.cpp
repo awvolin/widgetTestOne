@@ -1,6 +1,6 @@
 #include <QtUiPlugin/QDesignerCustomWidgetInterface>
-#include "SliderTextPlugin.h"
-#include "SliderText.h"
+#include "slidertextplugin.h"
+#include "slidertext.h"
 
 SliderTextPlugin::SliderTextPlugin(QObject *parent)
     : QObject(parent), m_initialized(false)

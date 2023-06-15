@@ -2,7 +2,7 @@
 #define MYWIDGETCOLLECTIONPLUGIN_H
 
 #include <QtUiPlugin/QDesignerCustomWidgetCollectionInterface>
-#include "SliderTextPlugin.h"
+#include "slidertextplugin.h"
 
 class MyWidgetCollectionPlugin : public QObject, public QDesignerCustomWidgetCollectionInterface
 {

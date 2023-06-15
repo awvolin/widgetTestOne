@@ -1,5 +1,5 @@
 #include "MyWidgetCollectionPlugin.h"
-#include "SliderTextPlugin.h"
+#include "slidertextplugin.h"
 
 MyWidgetCollectionPlugin::MyWidgetCollectionPlugin(QObject *parent)
     : QObject(parent), m_widgets({new SliderTextPlugin(this)})

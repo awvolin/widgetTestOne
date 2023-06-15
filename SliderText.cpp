@@ -1,4 +1,4 @@
-#include "SliderText.h"
+#include "slidertext.h"
 
 SliderText::SliderText(QWidget *parent)
     : DelayedInitializationWidget(parent)
